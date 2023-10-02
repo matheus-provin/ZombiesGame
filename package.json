@@ -1,0 +1,19 @@
+{
+  "name": "zombiesgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camera-controls": "^2.7.2",
+    "socket.io": "^4.7.2",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}

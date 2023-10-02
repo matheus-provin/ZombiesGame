@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#button1 {
+  position: absolute;
+}
+
+#hpDiv {
+  position: absolute;
+  top: 100px;
+  left: 30px;
+}
